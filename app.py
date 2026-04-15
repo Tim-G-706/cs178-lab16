@@ -1,5 +1,5 @@
 """
-Tim Groth
+Tim Groth 
 CS 178 - Lab 16: Serverless Image Processing with AWS Lambda + S3
 app.py — Flask web server
 
